@@ -1,4 +1,4 @@
-= Template
+= AWS Serverless Computing Lambda
 :toc: left
 :toclevels: 5
 :sectnums:
